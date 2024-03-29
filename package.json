@@ -1,0 +1,18 @@
+{
+  "name": "threejs_code_segment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JuneJH/threejs_code_segment.git",
+  "author": "JuneJH <15310487388@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "three": "^0.162.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "scripts": {
+    "dev": "webpack server"
+  }
+}
